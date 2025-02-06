@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/guru_portfolio/static/css/main.fa4d6898.css",
+    "main.js": "/guru_portfolio/static/js/main.e9295dd0.js",
+    "static/js/488.f30ea4ab.chunk.js": "/guru_portfolio/static/js/488.f30ea4ab.chunk.js",
+    "static/media/image.jpg": "/guru_portfolio/static/media/image.5c48932fc44637148a3f.jpg",
+    "index.html": "/guru_portfolio/index.html",
+    "main.fa4d6898.css.map": "/guru_portfolio/static/css/main.fa4d6898.css.map",
+    "main.e9295dd0.js.map": "/guru_portfolio/static/js/main.e9295dd0.js.map",
+    "488.f30ea4ab.chunk.js.map": "/guru_portfolio/static/js/488.f30ea4ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa4d6898.css",
+    "static/js/main.e9295dd0.js"
+  ]
+}
